@@ -1,0 +1,11 @@
+{
+  "name": "rest_api_server",
+  "version": "1.0.0",
+  "description": "Example REST API Server",
+  "main": "server.js",
+  "author": "Nathan Sowatskey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}

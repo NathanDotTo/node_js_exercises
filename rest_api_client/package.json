@@ -1,0 +1,14 @@
+{
+  "name": "rest_api_client",
+  "version": "1.0.0",
+  "description": "Example REST API Client",
+  "main": "client.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nathan Sowatskey",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
