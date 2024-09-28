@@ -45,7 +45,8 @@ async function createUser(name) {
 async function test() {
     getAllUsers();
     getUserById(1);
-    //getUserById(10);
+    // To deliberately show what errors look like
+    getUserById(10);
     let newUserID = await createUser('Charlie');
     getUserById(newUserID);
 }
